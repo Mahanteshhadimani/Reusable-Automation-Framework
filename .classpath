@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/imageClient.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/java-client-5.0.4.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/javax.ws.rs.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/jersey-client.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/jersey-core-1.19.1.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/json-20151123.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/mobile-webdriver.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/selenium-server-standalone-3.7.1.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/ws-commons-util-1.0.2.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/xmlrpc-client-3.1.2.jar"/>
+	<classpathentry kind="lib" path="supportlibraries/External_Jars/xmlrpc-common-3.1.2.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
